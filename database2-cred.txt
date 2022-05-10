@@ -1,0 +1,14 @@
+Host
+ec2-54-164-40-66.compute-1.amazonaws.com
+Database
+d3i2cfoh9ce702
+User
+zgkqofjqtgnrsi
+Port
+5432
+Password
+f1e71084889cdf0a4276ba221f7075d064e966f03470361165cdc52130f32119
+URI
+postgres://zgkqofjqtgnrsi:f1e71084889cdf0a4276ba221f7075d064e966f03470361165cdc52130f32119@ec2-54-164-40-66.compute-1.amazonaws.com:5432/d3i2cfoh9ce702
+Heroku CLI
+heroku pg:psql postgresql-encircled-99865 --app prueba-db-10-5
